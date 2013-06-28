@@ -1,0 +1,38 @@
+[Rainmeter]
+Author = Gin and Sean
+Update = 1000
+
+[bar]
+Meter=bar
+X=0
+Y=0
+W=[bg:W]
+H=20
+SolidColor=192,192,192
+
+
+[Chatbox]
+Meter = Image
+ImageName = #@#Images\chatflipped.png
+W=270
+H=230
+X=125
+Y=4
+
+[WaifuImage]
+Meter = Image
+ImageName = #@#Images\rikka2.png
+W=170
+H=230
+X=-10
+Y=18
+
+[MascotText]
+Meter=String
+X=170
+Y=35
+FontFace=haxrcorpttf
+FontSize=11
+StringStyle=Italic
+FontColor=45,45,45
+Text=D-Do you need something?
