@@ -1,7 +1,7 @@
 rainwaifu
 =========
 
-Small project for rainmeter
+Small project for rainmeter made with a friend
 
 Very personalized, users should edit the code
 
