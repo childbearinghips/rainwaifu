@@ -10,7 +10,7 @@ Click https://sourceforge.net/projects/rainwaifu/files/rainwaifu_1.0.rmskin/down
 
 ##Recommendation
 
-Also, if you're into making a sprite for your desktop manager, I suggest using
+If you're into making a sprite for your desktop manager, I suggest using
 
 http://www.icongenerators.net/pixelavatar.html
 
