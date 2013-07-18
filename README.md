@@ -15,3 +15,7 @@ If you're into making a sprite for your desktop manager, I suggest using
 http://www.icongenerators.net/pixelavatar.html
 
 It's simple and intuitive
+
+Also, gif-images are supported by rainmeter
+http://docs.rainmeter.net/tips/animated-gif-files
+This should be enough reference for you to follow through
